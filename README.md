@@ -34,6 +34,7 @@ python3 ipToEmoji.py 1 192.168.1.123
 2- Tweepy: Twitter for Python! (https://github.com/tweepy/tweepy)
     
 MIT License
+-----------
 
 Copyright (c) 2018, Kotaiba Alachkar, Peter Prjevara
 
